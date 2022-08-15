@@ -45,8 +45,8 @@
   <ItemGroup>
     <Compile Include="Crosscutting\Enumerators\EnumDependents.cs" />
     <Compile Include="Crosscutting\Enumerators\EnumIncomeType.cs" />
-    <Compile Include="Family.cs" />
-    <Compile Include="FamilyConditions.cs" />
+    <Compile Include="Domain\Family.cs" />
+    <Compile Include="Domain\FamilyConditions.cs" />
     <Compile Include="Presentation\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -55,7 +55,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Application\" />
-    <Folder Include="Domain\" />
     <Folder Include="Infrastructure\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

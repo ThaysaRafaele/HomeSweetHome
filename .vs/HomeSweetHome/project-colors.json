@@ -5,7 +5,12 @@
       "ProjectGuid": "fcc222cb-e984-40ad-9939-fd48c0bbec08",
       "DisplayName": "HomeSweetHome",
       "ColorIndex": 0
+    },
+    "6c183f08-c653-45ea-8c10-7ab69fafeed6": {
+      "ProjectGuid": "6c183f08-c653-45ea-8c10-7ab69fafeed6",
+      "DisplayName": "HomeSweetHomeTests",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
