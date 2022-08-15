@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeSweetHome", "HomeSweetHome\HomeSweetHome.csproj", "{FCC222CB-E984-40AD-9939-FD48C0BBEC08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeSweetHomeTests", "HomeSweetHomeTests\HomeSweetHomeTests.csproj", "{6C183F08-C653-45EA-8C10-7AB69FAFEED6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{CB626674-2F07-4505-911D-EB8E5B2C7CC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCC222CB-E984-40AD-9939-FD48C0BBEC08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC222CB-E984-40AD-9939-FD48C0BBEC08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC222CB-E984-40AD-9939-FD48C0BBEC08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC222CB-E984-40AD-9939-FD48C0BBEC08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C183F08-C653-45EA-8C10-7AB69FAFEED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C183F08-C653-45EA-8C10-7AB69FAFEED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C183F08-C653-45EA-8C10-7AB69FAFEED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C183F08-C653-45EA-8C10-7AB69FAFEED6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6C183F08-C653-45EA-8C10-7AB69FAFEED6} = {CB626674-2F07-4505-911D-EB8E5B2C7CC5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30B15425-7928-412C-AF94-1E844670B024}
+	EndGlobalSection
+EndGlobal

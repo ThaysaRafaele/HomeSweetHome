@@ -1,0 +1,8 @@
+C:\Users\thaysa.lacerda\Documents\Projetos Estudos\HomeSweetHome\HomeSweetHome\bin\Debug\HomeSweetHome.exe.config
+C:\Users\thaysa.lacerda\Documents\Projetos Estudos\HomeSweetHome\HomeSweetHome\bin\Debug\HomeSweetHome.exe
+C:\Users\thaysa.lacerda\Documents\Projetos Estudos\HomeSweetHome\HomeSweetHome\bin\Debug\HomeSweetHome.pdb
+C:\Users\thaysa.lacerda\Documents\Projetos Estudos\HomeSweetHome\HomeSweetHome\obj\Debug\HomeSweetHome.csproj.AssemblyReference.cache
+C:\Users\thaysa.lacerda\Documents\Projetos Estudos\HomeSweetHome\HomeSweetHome\obj\Debug\HomeSweetHome.csproj.SuggestedBindingRedirects.cache
+C:\Users\thaysa.lacerda\Documents\Projetos Estudos\HomeSweetHome\HomeSweetHome\obj\Debug\HomeSweetHome.csproj.CoreCompileInputs.cache
+C:\Users\thaysa.lacerda\Documents\Projetos Estudos\HomeSweetHome\HomeSweetHome\obj\Debug\HomeSweetHome.exe
+C:\Users\thaysa.lacerda\Documents\Projetos Estudos\HomeSweetHome\HomeSweetHome\obj\Debug\HomeSweetHome.pdb
